@@ -1,1 +1,3 @@
-# tinkdev
+# In working with Tinkerbell to provision a baremetal machine via a docker image, I ran into a few caveats that needed some investigating.  Ultimately, this ended up with a docker contaimer image with some extra packages, and forked modifications to rootio and archive2disk.
+
+more to come...
